@@ -20,7 +20,7 @@
 Quick Start
 -----------
 
-This quick start guide will help you bootstrap an Airflow standalone instance on your local machine.
+This sdafadsfds quick start guide will help you bootstrap an Airflow standalone instance on your local machine.
 
 .. note::
 
